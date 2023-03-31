@@ -240,7 +240,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 - This is a devy league, meaning that players can draft people who are still in college and or highschool for their teams. 
 - Devy players are not eligible to be on your actual roster until they have exhausted their college eligibility or they have been drafted (or signed) by an NFL team.
 - The is no limit on the number of devy players that a team can have
-- Devy players will be handled by [this](https://docs.google.com/spreadsheets/d/1XQLW6srbWcG8m8x4hRwNiQV2ztdiOn0opXuuYaQQmdU/edit?usp=sharing) google sheets spreadsheet.
+- Devy players will be handled by [this](https://docs.google.com/spreadsheets/d/1MAI7qlb-qQUXbqtwA6vDZk14oU6QgFrkSDwm-27YVEo/edit?usp=sharing) google sheets spreadsheet.
 - In order to trade devy players, both party members must announce the inclusion of devy players in the league chat at the time a trade goes through and the commish will udpate the spreadsheet accordingly.
 - Devy players "mature" into roseterable players on June 30th each year. By the 30th, all users must inform which of their maturing devy players they wish to move to their roster, and which ones they choose to cut. On July  1st all unwanted "mature" devy players will get sent to waivers and freeagency.
 - There is no limit on the age a potential devy prospect can be. If a user wants to draft a 13-year old phenom then that is their prerogative.
